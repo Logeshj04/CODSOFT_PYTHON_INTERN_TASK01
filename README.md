@@ -1,4 +1,4 @@
-# CODSOFT
+# INTERN
 ## Python Programming Intern TASK01
 
 # OUTPUT
